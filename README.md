@@ -71,7 +71,7 @@ use police\yii2\ModalAjax;
 
 echo ModalAjax::widget([
     'id' => 'createCompany',
-    'header' => 'Create Company',
+    'title' => 'Create Company',
     'toggleButton' => [
         'label' => 'New Company',
         'class' => 'btn btn-primary pull-right'
@@ -90,7 +90,7 @@ use police\yii2\ModalAjax;
 
 echo ModalAjax::widget([
     'id' => 'createCompany',
-    'header' => 'Create Company',
+    'title' => 'Create Company',
     'toggleButton' => [
         'label' => 'New Company',
         'class' => 'btn btn-primary pull-right'
