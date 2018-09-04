@@ -175,7 +175,7 @@ class ModalAjax extends Modal
                 
                 if (!title) title = ' ';
                 
-                jQuery('#$id').find('.modal-header span').html(title);
+                //jQuery('#$id').find('.modal-header span').html(title);
                 
                 jQuery('#$id').kbModalAjax({
                     selector: $(this),
