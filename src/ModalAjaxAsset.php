@@ -1,6 +1,6 @@
 <?php
 
-namespace police\widgets\modal;
+namespace police\yii2;
 
 use yii\web\AssetBundle;
 
