@@ -1,0 +1,21 @@
+{
+    "name": "police666/yii2-modal-ajax",
+    "description": "Modal-ajax for bootstrap 4",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Police666",
+            "email": "plotnik-sergey@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "police\\yii2\\": ""
+        }
+    }
+}
